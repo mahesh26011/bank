@@ -7,7 +7,7 @@ function Profile() {
     <div>
         <Header/>
         <Navbar/>
-        <h1 style={{textAlign:'center'}}>Welcom To E-com</h1>
+        <h1 style={{textAlign:'center'}}>Welcom To E-CART</h1>
     </div>
   )
 }
