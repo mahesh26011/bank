@@ -1,0 +1,41 @@
+body{
+  background-color: rgb(173, 90, 139);
+}
+header{
+  color: rgb(175, 16, 127);
+  text-align: center;
+  background-color: bisque;
+font-size: larger;
+  
+}
+
+li {
+  display:block;
+  color: blue;
+ font-size:20px;
+  text-align: center;
+  padding: 10px 100px;
+  text-decoration: none;
+  float:left;
+  
+  background-color: aqua;
+}
+
+form{
+  text-align: center;
+}
+
+.c35{
+  
+    float: left;
+    width :10%;
+    padding: 10px;
+  
+}
+
+button{
+  background-color: rgb(112, 180, 22);
+ height: 20px;
+ width: 100px;
+}
+
